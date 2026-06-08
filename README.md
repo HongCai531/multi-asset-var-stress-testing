@@ -17,6 +17,7 @@ This project builds a Python-based portfolio risk analytics framework for a mult
 - Historical volatility
 - Downside risk analysis
 - Historical Value-at-Risk
+- Delta-Normal Value-at-Risk
 - Stress testing under adverse market scenarios
 
 ## Tools
